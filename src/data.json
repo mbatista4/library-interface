@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"name": "Jessica warren",
+		"address": "4 tall town",
+		"birthday": "10-10-2010",
+		"gender": "female",
+		"position": "employee",
+		"salary": "$10,000",
+		"email": "jessica.warren@email.com",
+		"ssn": "111-11-1111"
+	},
+	{
+		"id": 2,
+		"name": "Jessica warren",
+		"address": "4 tall town",
+		"birthday": "10-10-2010",
+		"gender": "female",
+		"position": "employee",
+		"salary": "$10,000",
+		"email": "jessica.warren@email.com",
+		"ssn": "111-11-1111"
+	},
+	{
+		"id": 3,
+		"name": "Jessica warren",
+		"address": "4 tall town",
+		"birthday": "10-10-2010",
+		"gender": "female",
+		"position": "employee",
+		"salary": "$10,000",
+		"email": "jessica.warren@email.com",
+		"ssn": "111-11-1111"
+	},
+	{
+		"id": 4,
+		"name": "Jessica warren",
+		"address": "4 tall town",
+		"birthday": "10-10-2010",
+		"gender": "female",
+		"position": "employee",
+		"salary": "$10,000",
+		"email": "jessica.warren@email.com",
+		"ssn": "111-11-1111"
+	},
+	{
+		"id": 5,
+		"name": "Jessica warren",
+		"address": "4 tall town",
+		"birthday": "10-10-2010",
+		"gender": "female",
+		"position": "employee",
+		"salary": "$10,000",
+		"email": "jessica.warren@email.com",
+		"ssn": "111-11-1111"
+	}
+]
